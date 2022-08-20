@@ -10,3 +10,4 @@
 [![섬네일](https://user-images.githubusercontent.com/70616571/185762482-78267ea2-6948-4d89-91a8-b3452c96b725.png)](https://www.youtube.com/watch?v=ShFukc-bEO0)
 
 ## 실행 파일
+https://drive.google.com/file/d/15pyLnH-RGOZqjJYNUtoBAxxcPHf1rHA4/view?usp=sharing
